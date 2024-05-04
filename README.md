@@ -40,10 +40,11 @@ This repository is no longer maintained by the owner `Devs Do Code (Sree)`. Any 
 
 <div>
   <h3>HuggingChat API 🤗🤗 - Demo</h3>
-  <video width="560" height="315" controls autoplay loop>
-    <source src="Demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <video width="320" height="240" controls>
+  <source src="https://github.com/SreejanPersonal/Hugging-Chat-Reverse-Engineered-API/raw/main/Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 </div> 
 
 
