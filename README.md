@@ -38,9 +38,13 @@ Certainly! Here's a professional and polished way to convey that the repository 
 🛑 **Important Notice:** 
 This repository is no longer maintained by the owner `Devs Do Code (Sree)`. Any contribution in this repository is heartly welcomed 💝💝
 
-<video width="320" height="240" src="Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<!-- <div>
+  <h3>HuggingChat API 🤗🤗 - Demo</h3>
+  <video width="560" height="315">
+    <source src="./Demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>  -->
 
 
 ### 🚀 Quick Start
