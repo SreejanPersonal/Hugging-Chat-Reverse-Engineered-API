@@ -28,11 +28,6 @@
 
 > **Disclaimer:** This project is not officially associated with Hugging Face. It is an independent reverse engineering effort to explore the Hugging Chat API.
 
-
-Certainly! Here's a professional and polished way to convey that the repository is no longer maintained by the owner:
-
----
-
 🚀 **Repository Status Update:**
 
 🛑 **Important Notice:** 
