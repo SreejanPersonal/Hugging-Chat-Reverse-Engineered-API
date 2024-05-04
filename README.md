@@ -38,14 +38,10 @@ Certainly! Here's a professional and polished way to convey that the repository 
 🛑 **Important Notice:** 
 This repository is no longer maintained by the owner `Devs Do Code (Sree)`. Any contribution in this repository is heartly welcomed 💝💝
 
-<div>
-  <h3>HuggingChat API 🤗🤗 - Demo</h3>
-  <video width="320" height="240" controls>
-  <source src="https://github.com/SreejanPersonal/Hugging-Chat-Reverse-Engineered-API/raw/main/Demo.mp4" type="video/mp4">
+<video width="320" height="240" controls>
+  <source src="yourvideo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-</div> 
 
 
 ### 🚀 Quick Start
