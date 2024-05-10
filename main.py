@@ -37,7 +37,7 @@ load_dotenv()
 
 if __name__ == "__main__":
 
-    hf_api = HuggingChat_RE(model="microsoft/Phi-3-mini-4k-instruct", hf_chat=os.getenv("HUGGING_CHAT_ID"))
+    hf_api = HuggingChat_RE(model="CohereForAI/c4ai-command-r-plus", hf_chat=os.getenv("HUGGING_CHAT_ID"),  system_prompt="Talk Like Shaskesphere")
     while True:
         query = input("\n>> ")
         response = hf_api.generate(query, web_search=False)
